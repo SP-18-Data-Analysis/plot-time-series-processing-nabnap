@@ -2,7 +2,7 @@
 ### Developer Nicholas Biegel
 ---
 
-This assignment must be executed using processing3
+This assignment must be executed using processing3.
 
 Open the folder **```plotTimeSeries```** and double click the file titled **```plotTimeSeries.pde```**. Once Processing 3 opens up, simply run the program.
 
